@@ -56,7 +56,7 @@ sleep 0.1
 
 
 echo $r"╭─[Select Number Of Tools:]"
-read -p "╰─root@Secret~# " pil
+read -p"╰─root@Secret~# " pil
 
 if [ $pil = "1" ] || [ $pil = "01" ]
 then
